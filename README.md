@@ -5,13 +5,13 @@ Learning new tools, frameworks and language is both exciting and humbling experi
 ### Technologies ###
 Each of the mini projects has different learning purposes, but they are all restrict to the sames technologies, because they are my learning goal, and the reason the project has been created.
 They are:	
-	* React and React Fiber
-	* Bootstrap 4
-	* ES6
-	* Backbone in ES6
-	* Stylus
-	* SVG
-	* GSOP
+* React and React Fiber
+* Bootstrap 4
+* ES6
+* Backbone in ES6
+* Stylus
+* SVG
+* GSOP
 
 ### SVG ###
 I have used vector in a great number of project during my programmer years, but i’ve never used it in a deepen way. The Project will help me understand SVG properties, manipulate and animate those vector. Some of the properties i want to study is:
